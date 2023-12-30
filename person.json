@@ -1,0 +1,29 @@
+{
+   "name": "BrahmaNaidu",
+   "dob": "16-08-1996",
+   "address": {
+       "address-line1": "vivek nager",
+       "address-line2": "sanath nagar",
+       "city": "hyd"
+   } 
+}
+
+{
+    "name": "ramesh",
+    "dob": "23-10-1995",
+    "address": [
+        {
+            "address-line1": "gantapurm",
+            "address-line2": "Bestavaripeta",
+            "city": "Ongole",
+            "type": "Office-address"
+        }
+        {
+            "address-line1": "kanigiri",
+            "address-line2": "kanigiri",
+            "city": "Ongole",
+            "type": "home-address"
+        }
+
+    ]
+}

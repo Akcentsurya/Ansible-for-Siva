@@ -1,0 +1,19 @@
+- name: BrahmaNaidu
+  dob: "23-10-1994"
+  address: 
+    address-line1: vivek street
+    address-line2: sanath nagar
+    city: HYD
+  email: info@joindevops.com
+
+- name: Ramesh
+  dob: "3-03-1995"
+  address: 
+  - address-line1: vivek street
+    address-line2: sanath nagar
+    city: HYD1
+  - address-line1: vivek street
+    address-line2: sanath nagar
+    city: HYD2
+  email: info@joindevops.com
+  
