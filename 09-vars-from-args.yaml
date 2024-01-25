@@ -1,0 +1,7 @@
+## we are giving variable values from command line
+- name: variables form command line level
+  hosts: localhost
+  tasks:
+  - name: check variables
+    ansible.builtin.debug:
+      msg: "hello {{PERSON}}, good {{WISHES}}"

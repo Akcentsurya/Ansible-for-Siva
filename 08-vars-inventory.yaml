@@ -1,0 +1,7 @@
+## here we are giving variables from inventory file.
+- name: variables from inventory level
+  hosts: localhost
+  tasks: 
+  - name: check variables
+    ansible.builtin.debug:
+      msg: "hi im learning {{Course}}, Trainer is {{Trainer}}, Duration is {{Durationi}}"

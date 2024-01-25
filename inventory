@@ -1,4 +1,9 @@
 [web]
 100.26.134.145
 
-
+[localhost]
+localhost
+[localhost:vars]
+Cousre= "DevOps"
+Trainer= "Siva"
+Duration= "110hrs"
